@@ -1,0 +1,61 @@
+2019-04-29 17:04:59,331 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: java.lang.NullPointerException
+2019-04-29 17:32:38,616 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-6PNRB3G', ip: '192.168.2.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\altam\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51551}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.108, webStorageEnabled: true, webdriver.remote.sessionid: f8365434b92256c06cae458a6a4...}
+Session ID: f8365434b92256c06cae458a6a42007b
+2019-04-29 18:07:23,880 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Ford 
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-6PNRB3G', ip: '192.168.2.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown
+2019-04-29 18:08:43,912 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Ford 
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-6PNRB3G', ip: '192.168.2.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown
+2019-04-29 18:10:45,862 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Ford 
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-6PNRB3G', ip: '192.168.2.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown
+2019-04-29 18:12:25,928 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Ford 
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-6PNRB3G', ip: '192.168.2.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown
+2019-04-29 18:20:20,111 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Ford 
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-6PNRB3G', ip: '192.168.2.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown
+2019-04-29 19:00:20,485 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Ford 
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-6PNRB3G', ip: '192.168.2.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown
+2019-04-29 19:01:43,730 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Ford 
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-6PNRB3G', ip: '192.168.2.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown
+2019-04-29 19:02:17,732 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Ford 
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-6PNRB3G', ip: '192.168.2.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown
+2019-04-29 19:03:19,314 [main] ERROR autotrader.web.automation.test.SearchVehicleTest  - <b> - The test for forgot password did not run - <font color="red">ERROR</font></b>, exception: org.openqa.selenium.WebDriverException: unknown error: keys should be a string
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-6PNRB3G', ip: '192.168.2.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\altam\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58541}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.108, webStorageEnabled: true, webdriver.remote.sessionid: 0b576f6000759728c41136a406f...}
+Session ID: 0b576f6000759728c41136a406f1b83f

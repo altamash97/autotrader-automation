@@ -1,0 +1,5 @@
+_STORE
+**.idea
+**.iml
+**/target/
+**.*log
